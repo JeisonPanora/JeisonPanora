@@ -33,7 +33,7 @@
 
 ### 📊 Most Used Lenguajes
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonpanora&layout=compact" alt="stats" />
 </p>
 
