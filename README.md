@@ -34,7 +34,7 @@
 ### 📊 Most Used Lenguajes
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonpanora&layout=compact" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonpanora&hide_progress=true" alt="stats" />
 </p>
 
 ---
