@@ -38,3 +38,5 @@
 ---
 
 <h2 align="center">⭐ Thank you for visiting my profile!<h2>
+
+---
