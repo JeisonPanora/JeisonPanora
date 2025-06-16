@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hello! 👋 I'm Jeison Pañora</h1>
+<h3 align="center">🎓 Computer Science Engineering Student at Salesian Polytechnic University, Ecuador 🇪🇨 👨‍💻</h3>
 
-<!--
-**JeisonPanora/JeisonPanora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧠 Technologies and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+- Python 🐍
+- Java ☕
+- SQL (PostgreSQL, MySQL)
+
+**Frameworks and libraries:**
+- Angular 🅰️
+- Spring Boot 🌱
+- Tailwind CSS 🎨
+
+**Tools:**
+- Docker 🐳
+- Git & GitHub 📚
+- Eclipse / VS Code 🖥
+- WildFly 🐗
+
+---
+
+🚀 Latest projects 
+
+- **Medical System**: Diagnosis and brain visualization with HDF5 + IA imaging (U-Net, Grad-CAM, Plotly). 
+- **UPSGlam 2.0**: Instagram-like platform using Flutter, Firebase and Spring WebFlux. 
+- **Vehicular traffic simulator**: Synchronized traffic light algorithm and vehicle queuing with waiting logic. 
+
+---
+
+📫 How to contact me? 
+
+📧 Email: jeisonpanora12@gmail.com 
+
+---
+
+<h2 align="center">⭐ Thank you for visiting my profile!<h2>
