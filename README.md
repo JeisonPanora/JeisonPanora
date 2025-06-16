@@ -31,10 +31,10 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### 📊 Most Used Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeisonpanora&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeisonpanora&layout=compact" alt="stats" />
 </p>
 
 ---
