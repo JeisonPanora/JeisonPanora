@@ -41,7 +41,7 @@
 
 📫 How to contact me? 
 
-📧 Email: jeisonpanora12@gmail.com 
+📧 Email: [jeisonpanora@gmail.com](mailto:jeisonpanora@gmail.com)
 
 ---
 
