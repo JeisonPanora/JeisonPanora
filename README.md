@@ -14,6 +14,7 @@
 - Angular 🅰️
 - Spring Boot 🌱
 - Tailwind CSS 🎨
+- Eclipse IDE  🌐
 
 **Tools:**
 - Docker 🐳
