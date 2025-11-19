@@ -24,7 +24,7 @@
 
 ---
 
-🚀 Latest projects 
+🚀 Latest projects  
 
 - **Medical System**: Diagnosis and brain visualization with HDF5 + IA imaging (U-Net, Grad-CAM, Plotly). 
 - **UPSGlam 2.0**: Instagram-like platform using Flutter, Firebase and Spring WebFlux.
