@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Most Used Lenguajes
+### 🚀 Tech Stack
 
 <p align="center">
   <img 
