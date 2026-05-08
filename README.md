@@ -33,8 +33,16 @@
 
 ### 📊 Most Used Lenguajes
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonPanora&hide_progress=true" alt="stats" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JeisonPanora&show_icons=true&theme=tokyonight" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonPanora&layout=compact&theme=tokyonight" 
+    height="180em"
+  />
 </p>
 
 ---
