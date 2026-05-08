@@ -25,7 +25,7 @@
 <h2 align="center">🛠 Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,cpp,css,docker,firebase,html,java,js,mongodb,mysql,nodejs,opencv,postgres,python,react,ts" />
+  <img src="https://skillicons.dev/icons?i=angular,java,spring,python,postgres,docker,firebase,react,ts,tailwind,git,github,vscode" />
 </p>
 
 ---
