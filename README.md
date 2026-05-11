@@ -37,16 +37,6 @@
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JeisonPanora&theme=radical" 
-  />
-</p>
-
----
-
 📫 How to contact me? 
 
 📧 Email: [jeisonpanora@gmail.com](mailto:jeisonpanora@gmail.com)
