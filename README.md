@@ -39,7 +39,8 @@
 
 📫 How to contact me? 
 
-📧 Email: [jeisonpanora@gmail.com](mailto:jeisonpanora@gmail.com)
+📧 Email: [jeisonpanora@gmail.com](mailto:jeisonpanora@gmail.com) 
+
 💼 Linkedin: https://www.linkedin.com/in/jeison-pañora/
 
 ---
