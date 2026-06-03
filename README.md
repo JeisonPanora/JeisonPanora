@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Jeison Pañora</h1>
-<h3 align="center">🎓 Computer Science Engineering Student at Salesian Polytechnic University, Ecuador 🇪🇨 👨‍💻</h3>
+<h3 align="center">🎓 Computer Science Engineering - Salesian Polytechnic University, Ecuador 🇪🇨 👨‍💻</h3>
 
 ---
 
